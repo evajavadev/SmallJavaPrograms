@@ -10,6 +10,5 @@ WazzupRocket
 ![wazzup rocket](/images/wazzuprocket.jpg)
 
 <br>
-<br>
 
 ...
