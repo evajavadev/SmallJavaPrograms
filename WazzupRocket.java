@@ -1,5 +1,3 @@
-package LexiconRehearsals;
-
 public class WazzupRocket {
 
     public static void main(String[] args) {
@@ -35,6 +33,6 @@ public class WazzupRocket {
         System.out.println("           .                2                                       [ ][ ]");
         System.out.println("       .             b  '                                            | | |");
         System.out.println("                         .      ~                                   /  ][ \\");
-        System.out.println("''''d'.'''''''''p'' '*''o' ''a'' '.''~'''''  '''' ''''' ''  '''''''' ''''''''''''''' ''''  ' '''''' ''' '");
+        System.out.println("''''d'.'''''''''p'' '*''o' ''a'' '.''~'''''  '''' ''''' ''  '''''''' ''''''''''''''' ''''  ' '''''' ''' '\n\n");
     }
 }
