@@ -1,0 +1,2 @@
+# SmallJavaPrograms
+Happy coding! 🌴🤓
