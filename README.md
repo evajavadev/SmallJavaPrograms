@@ -5,17 +5,17 @@ Happy coding! 🌴🤓
 <br>
 <br>
 
-WazzupRocket
+[WazzupRocket](https://github.com/evajavadev/SmallJavaPrograms/blob/master/WazzupRocket.java)
 
 ![wazzup rocket](/images/wazzuprocket.jpg)
 
 <br>
 
-HelloNaming
+[HelloNaming](https://github.com/evajavadev/SmallJavaPrograms/blob/master/HelloNaming.java)
 
 <br>
 
-MathRunningDreams
+[MathRunningDreams](https://github.com/evajavadev/SmallJavaPrograms/blob/master/MathRunningDreams.java)
 
 <br>
 
