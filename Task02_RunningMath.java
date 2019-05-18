@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class MathRunningDreams {
+public class Task02_RunningMath {
 
     public static void main(String[] args) {
 

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class HelloNaming {
+public class Task01_HelloNaming {
 
     public static void main(String[] args) {
 
