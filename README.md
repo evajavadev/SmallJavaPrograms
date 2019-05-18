@@ -15,7 +15,7 @@ Happy coding! 🌴🤓
 
 <br>
 
-[MathRunningDreams](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task02_MathRunningDreams.java)
+[RunningMath](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task02_RunningMath.java)
 
 <br>
 
