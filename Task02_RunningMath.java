@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class Task02_RunningMath {
 
-    public static void main(String[] args) {
+    static Scanner scan = new Scanner(System.in);
 
-        Scanner scan = new Scanner(System.in);
+    public static void main(String[] args) {
 
         // fråga 1
         System.out.print("\n\nHej! Hur snabbt (m/s) sprang du nu sist " +
