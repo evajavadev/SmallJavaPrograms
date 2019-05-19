@@ -43,11 +43,11 @@ public class Task03_BiggestArea {
         maxValue = triangleArea;
         maxString = "\tThe triangle area is the largets one";
 
-        if(circleArea > maxValue) {
+        if (circleArea > maxValue) {
             maxValue = circleArea;
             maxString = "\tThe circle area is the largets one";
         }
-        if(squareArea > maxValue) {
+        if (squareArea > maxValue) {
             maxValue = squareArea;
             maxString = "\tThe square area is the largets one";
         }
