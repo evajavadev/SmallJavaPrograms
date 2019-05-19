@@ -21,6 +21,6 @@ Happy coding! 🌴🤓
 
 [BiggestArea](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task03_BiggestArea.java)
 
-![biggest area](/images/Task03_BiggestArea.jpg)
+![biggest area](/images/task03biggestarea.jpg)
 
 ...
