@@ -23,4 +23,42 @@ Happy coding! 🌴🤓
 
 ![biggest area](/images/task03biggestarea.jpg)
 
+<br>
+
+[TwoIntegersAdditionChecksum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
 ...
+
+<br>
+
+[TwoIntegersAdditionContinue](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[TwoIntegersMDAMChecksum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[TwoIntegersWitchMDAM](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+
+[TwoIntegersWitchMDAMSampleInteger](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+
+[TwoIntegersSampleIntegerMDAM](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
