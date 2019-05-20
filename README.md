@@ -13,9 +13,13 @@ Happy coding! 🌴🤓
 
 [HelloNaming](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task01_HelloNaming.java)
 
+![hello name](/images/task01naming.jpg)
+
 <br>
 
 [RunningMath](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task02_RunningMath.java)
+
+![running math](/images/task02runningmath.jpg)
 
 <br>
 
