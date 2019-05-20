@@ -39,6 +39,7 @@ public class Task03_BiggestArea {
         System.out.println("\tThe circle area is: " + circleArea);
         System.out.println("\tThe triangle area is: " + triangleArea);
 
+
         // An algorithm that calculates the largest area
         maxValue = triangleArea;
         maxString = "\tThe triangle area is the largets one";
