@@ -29,9 +29,9 @@ Happy coding! 🌴🤓
 
 <br>
 
-[TwoIntegersAdditionChecksum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[Ovning1_TwoIntegersAdditionCheckSum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Ovning1_TwoIntegersAdditionCheckSum.java)
 
-...
+![two integers with addition check](/images/ovning1addition.jpg)
 
 <br>
 
