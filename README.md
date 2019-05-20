@@ -105,7 +105,7 @@ Happy coding! 🌴🤓
 
 [ArrayListTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
 
-![array list checker](/images/task10arraylisttextstringchecker.jpg)  
+![array list checker](/images/task10arraylistchecker.jpg)  
 
 <br>
 
