@@ -49,16 +49,66 @@ Happy coding! 🌴🤓
 
 <br>
 
-
 [TwoIntegersWitchMDAMSampleInteger](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
 
 ...
 
 <br>
 
-
 [TwoIntegersSampleIntegerMDAM](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
 
 ...
 
 <br>
+
+[NumbersOneToThirtyLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[NumbersOneToThirtyRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[StartAndEndNumbersRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[StartAndEndNumbersEachThirdRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[VocalConsonantChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[TwentyNumberChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[ArrayTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[ArrayListTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+...
+
+<br>
+
+[WhatsYourNameProgram](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+
+... 
