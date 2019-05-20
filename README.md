@@ -29,7 +29,7 @@ Happy coding! 🌴🤓
 
 <br>
 
-[Ovning1_TwoIntegersAdditionCheckSum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Ovning1_TwoIntegersAdditionCheckSum.java)
+[Ovning1_TwoIntegersAdditionCheckSum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task04_ArithmeticsSchool/Ovning1_TwoIntegersAdditionCheckSum.java)
 
 ![two integers with addition check](/images/ovning1addition.jpg)
 
