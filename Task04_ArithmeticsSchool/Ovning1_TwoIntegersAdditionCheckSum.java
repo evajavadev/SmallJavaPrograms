@@ -27,7 +27,8 @@ public class Ovning1_TwoIntegersAdditionCheckSum {
             System.out.println("Great! The answer is " + resultAnswer);
         }
         else {
-            System.out.println("\nTry again - the right answer is " + resultAnswer + "\n");
+            System.out.println("Try again - the right answer is " + resultAnswer + "\n");
+            twoIntegers();
         }
     }
 }
