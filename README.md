@@ -35,9 +35,9 @@ Happy coding! 🌴🤓
 
 <br>
 
-[TwoIntegersAdditionContinue](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[TwoIntegersAdditionContinue](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task04_ArithmeticsSchool/Ovning2_TwoIntegersAdditionContinue.java)
 
-...
+![two integers with addition check](/images/ovning2additioncontinue.jpg)
 
 <br>
 
