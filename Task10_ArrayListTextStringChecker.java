@@ -1,31 +1,40 @@
 package LexiconRehearsals.Task10_ArrayListTextStringChecker;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 
 public class Task10_ArrayListTextStringChecker {
 
-    private static Scanner scan = new Scanner(System.in);
+    Scanner scan = new Scanner(System.in);
 
-    public static void main(String[] args)
-    {
-        int side, number, a, b;
+    public static void main(String[] args) {
+        Task10_ArrayListTextStringChecker t10 = new Task10_ArrayListTextStringChecker();
+        t10.listChecker();
+    }
 
-        System.out.print("\n\tPlease Enter any Side of a Square : ");
-        side = scan.nextInt();
+    void listChecker() {
+        List<String> strings = new ArrayList<>();
+        System.out.println();
 
-        System.out.print("\tPlease Enter any Integer Value : ");
-        number = scan.nextInt();
-        System.out.println(" ");
+        String input;
+        boolean cont = true;
 
-        for(a = 0; a < side; a++)
-        {
-            for(b = 0; b < side; b++)
-            {
-                System.out.print("\t" + number + " ");
-            }
-            System.out.print("\n");
+        while (cont) {
+            System.out.print("Write a sentence and enter (and end with q): ");
+            input = scan.nextLine();
+            if (input.equalsIgnoreCase("q"))
+                cont = false;
+            else
+                strings.add(input);
         }
-        System.out.println("\n");
+
+        System.out.print("\nSearch for : ");
+        String searchString = scan.nextLine();
+
+        strings.stream()
+                .filter(item -> item.contains(searchString))
+                .forEach(System.out::println);
     }
 }
