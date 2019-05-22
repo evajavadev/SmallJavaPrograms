@@ -65,15 +65,15 @@ Happy coding! 🌴🤓
 
 <br>
 
-[NumbersOneToThirtyLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[NumbersOneToThirtyLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task05_IntegerSequences/Ovning1_NumbersOneToThirtyLoop.java)
 
-![two integers with addition check](/images/ovning2additioncontinue.jpg)
+![two integers with addition check](/images/task05ovn1numberonethirtyloop.jpg)
 
 <br>
 
-[NumbersOneToThirtyRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[NumbersOneToThirtyRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task05_IntegerSequences/Ovning2_NumbersOneToThirtyInRowsLoop.java)
 
-![two integers with addition check](/images/ovning2additioncontinue.jpg)
+![two integers with addition check](/images/task05ovn2numbersrowsloop.jpg)
 
 <br>
 
