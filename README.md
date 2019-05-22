@@ -77,15 +77,15 @@ Happy coding! 🌴🤓
 
 <br>
 
-[StartAndEndNumbersRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[StartAndEndNumbersRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task06_StartAndStopLoops/Ovning1_BeginningAndEndNumbersRowsLoop.java)
 
-...
+![start end loop](/images/task06ovn1beginandendloop.jpg)
 
 <br>
 
-[StartAndEndNumbersEachThirdRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[StartAndEndNumbersEachThirdRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task06_StartAndStopLoops/Ovning2_BeginningAndEndNumbersEachThirdRowsLoop.java)
 
-...
+![start end loop each third](/images/task06ovn2beginendeachthirdloop.jpg)
 
 <br>
 
