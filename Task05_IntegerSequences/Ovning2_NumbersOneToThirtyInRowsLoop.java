@@ -1,6 +1,3 @@
-package LexiconRehearsals.Task05_IntegerSequences;
-
-
 public class Ovning2_NumbersOneToThirtyInRowsLoop {
 
     public static void main(String[] args) {

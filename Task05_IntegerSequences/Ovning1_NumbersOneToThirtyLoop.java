@@ -1,6 +1,3 @@
-package LexiconRehearsals.Task05_IntegerSequences;
-
-
 public class Ovning1_NumbersOneToThirtyLoop {
 
     public static void main(String[] args) {
@@ -52,10 +49,4 @@ public class Ovning1_NumbersOneToThirtyLoop {
             n++;
         }
     }
-}
-
-
-/*
-https://www.baeldung.com/java-iterate-list
-http://www.guideforschool.com/1280095-java-program-to-print-magic-square-matrix/
- */
+} 
