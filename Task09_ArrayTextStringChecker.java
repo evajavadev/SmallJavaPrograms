@@ -1,5 +1,3 @@
-package LexiconRehearsals.Task09_ArrayTextStringChecker;
-
 import java.util.Scanner;
 
 
