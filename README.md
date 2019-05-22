@@ -37,7 +37,7 @@ Happy coding! 🌴🤓
 
 [TwoIntegersAdditionContinue](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task04_ArithmeticsSchool/Ovning2_TwoIntegersAdditionContinue.java)
 
-![two integers with addition check](/images/ovning2additioncontinue.jpg)
+![two integers with addition continue](/images/ovning2additioncontinue.jpg)
 
 <br>
 
@@ -67,13 +67,13 @@ Happy coding! 🌴🤓
 
 [NumbersOneToThirtyLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
 
-...
+![two integers with addition check](/images/ovning2additioncontinue.jpg)
 
 <br>
 
 [NumbersOneToThirtyRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
 
-...
+![two integers with addition check](/images/ovning2additioncontinue.jpg)
 
 <br>
 
@@ -103,7 +103,7 @@ Happy coding! 🌴🤓
 
 [ArrayTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task09_ArrayTextStringChecker.java)
 
-![array list checker](/images/task09stringchecker.jpg) 
+![array checker](/images/task09stringchecker.jpg) 
 
 <br>
 
@@ -115,4 +115,4 @@ Happy coding! 🌴🤓
 
 [WhatsYourNameProgram](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task11_WhatsYourNameProgram)
 
-![array list checker](/images/task11yourname.jpg)  
+![what's your name](/images/task11yourname.jpg)  
