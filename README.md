@@ -67,13 +67,13 @@ Happy coding! 🌴🤓
 
 [NumbersOneToThirtyLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task05_IntegerSequences/Ovning1_NumbersOneToThirtyLoop.java)
 
-![two integers with addition check](/images/task05ovn1numberonethirtyloop.jpg)
+![two integers with loop](/images/task05ovn1numberonethirtyloop.jpg)
 
 <br>
 
 [NumbersOneToThirtyRowsLoop](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task05_IntegerSequences/Ovning2_NumbersOneToThirtyInRowsLoop.java)
 
-![two integers with addition check](/images/task05ovn2numbersrowsloop.jpg)
+![two integers with rows loop](/images/task05ovn2numbersrowsloop.jpg)
 
 <br>
 
