@@ -101,13 +101,13 @@ Happy coding! 🌴🤓
 
 <br>
 
-[ArrayTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task10_ArrayListTextStringChecker.java)
+[ArrayTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task09_ArrayTextStringChecker.java)
 
 ![array list checker](/images/task09stringchecker.jpg) 
 
 <br>
 
-[ArrayListTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[ArrayListTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task10_ArrayListTextStringChecker.java)
 
 ![array list checker](/images/task10arraylistchecker.jpg)  
 
