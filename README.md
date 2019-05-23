@@ -95,9 +95,9 @@ Happy coding! 🌴🐧🤓
 
 <br>
 
-[TwentyNumberChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)
+[SevenNumberChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task08_SevenNumberChecker/Task08_SevenNumberChecker.java)
 
-...
+![seven number checker](/images/task08sevennumberchecker.jpg)
 
 <br>
 
