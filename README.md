@@ -121,9 +121,9 @@ Happy coding! 🌴🐧🤓
 <br>
 <br>
 
-### to be continued ...
+### to be continued
 
-Pffooooph... 
+Pffooooph...! 
 
 ![the madagascar ship](/images/pffooooph.jpg) 
 
