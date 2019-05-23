@@ -1,5 +1,3 @@
-package LexiconRehearsals.Task07_VocalConsonantChecker;
-
 import java.util.Scanner;
 
 
