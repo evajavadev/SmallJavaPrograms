@@ -121,9 +121,15 @@ Happy coding! 🌴🐧🤓
 <br>
 <br>
 
-### test
+### to be continued ...
 
-to be continued ...
+Pffooooph... 
 
-<!-- pffooooph.jpg -->
-<!-- madagascarholidays.jpg -->
+![the madagascar ship](/images/pffooooph.jpg) 
+
+<br>
+ 
+On holiday 
+
+![sun tan](/images/madagascarholidays.jpg) 
+ 
