@@ -1,6 +1,6 @@
 # Small Java Programs
 
-Happy coding! 🌴🤓
+Happy coding! 🌴🐧🤓
 
 <br>
 <br>
