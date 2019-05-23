@@ -89,7 +89,7 @@ Happy coding! 🌴🐧🤓
 
 <br>
 
-[VocalConsonantChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task07_VocalConsonantChecker.java)
+[VocalConsonantChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task07_VocalConsonantChecker/Task07_VocalConsonantChecker.java)
 
 ![vocal consonant checker](/images/task07vocalconsonantchecker.jpg)
 
