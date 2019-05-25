@@ -99,6 +99,10 @@ Happy coding! 🌴🐧🤓
 
 ![seven number checker](/images/task08sevennumberchecker.jpg)
 
+and the result when testing with the same number
+
+![eight test](/images/task08eighttest.jpg)
+
 <br>
 
 [ArrayTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task09_ArrayTextStringChecker.java)
