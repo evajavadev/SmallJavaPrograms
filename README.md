@@ -23,7 +23,7 @@ Happy coding! 🌴🐧🤓
 
 <br>
 
-[BiggestArea](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task03_BiggestArea.java) (variant 1, 2)
+[BiggestArea](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task03_BiggestArea.java)  (variant 1, 2)
 
 ![biggest area](/images/task03biggestarea.jpg)
 
@@ -35,13 +35,13 @@ Happy coding! 🌴🐧🤓
 
 <br>
 
-[TwoIntegersAdditionContinue](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task04_ArithmeticsSchool/Ovning2_TwoIntegersAdditionContinue.java) (variant 1, 2, 3)
+[TwoIntegersAdditionContinue](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task04_ArithmeticsSchool/Ovning2_TwoIntegersAdditionContinue.java)  (variant 1, 2, 3)
 
 ![two integers with addition continue](/images/ovning2additioncontinue.jpg)
 
 <br>
 
-[TwoIntegersMDAMChecksum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java) (variant 1, 2)
+[TwoIntegersMDAMChecksum](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)  (variant 1, 2)
 
 ...
 
@@ -53,13 +53,13 @@ Happy coding! 🌴🐧🤓
 
 <br>
 
-[TwoIntegersWitchMDAMSampleInteger](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java) (variant 1, 2)
+[TwoIntegersWitchMDAMSampleInteger](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)  (variant 1, 2)
 
 ...
 
 <br>
 
-[TwoIntegersSampleIntegerMDAM](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java) (variant 1, 2)
+[TwoIntegersSampleIntegerMDAM](https://github.com/evajavadev/SmallJavaPrograms/blob/master/x.java)  (variant 1, 2)
 
 ...
 
@@ -89,7 +89,7 @@ Happy coding! 🌴🐧🤓
 
 <br>
 
-[VocalConsonantChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task07_VocalConsonantChecker/Task07_VocalConsonantChecker.java) (variant 1, 2)
+[VocalConsonantChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task07_VocalConsonantChecker/Task07_VocalConsonantChecker.java)  (variant 1, 2)
 
 ![vocal consonant checker](/images/task07vocalconsonantchecker.jpg)
 
@@ -105,7 +105,7 @@ and the result when testing with the same number
 
 <br>
 
-[ArrayTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task09_ArrayTextStringChecker.java) (variant 1, 2)
+[ArrayTextStringChecker](https://github.com/evajavadev/SmallJavaPrograms/blob/master/Task09_ArrayTextStringChecker.java)  (variant 1, 2)
 
 ![array checker](/images/task09stringchecker.jpg) 
 
